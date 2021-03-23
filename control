@@ -1,0 +1,11 @@
+Package: com.miro.demoshortcut
+Name: Shortmoji Extension Demo
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.shortmoji2
+Version: 1.0
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji2
+Description: Demo shortcut for Shortmoji.
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Shortmoji Extension
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
