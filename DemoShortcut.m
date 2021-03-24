@@ -4,7 +4,7 @@
 
 @implementation DemoShortcut
 - (UIImage *)iconGlyph {
-    // Should returns the shortcut image
+    // Should return the shortcut image
     return [UIImage imageNamed:@"icon" inBundle:[NSBundle bundleForClass:[self class]] compatibleWithTraitCollection:nil];
 }
 
