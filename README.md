@@ -14,3 +14,5 @@ This project is a demo project for developers to know how to release a third-par
 * `- (UIImage *)iconGlyph` Should return the shortcut image.
 * `- (void)singleTapAction` Your single tap code should be here.
 * `- (void)longPressAction` Your long press code should be here.
+* `- (NSString *)singleTapToast` Returns a toast message string after single tapping on the shortcut.
+* `- (NSString *)longPressToast` Returns a toast message string after long pressing on the shortcut.
