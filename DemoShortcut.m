@@ -16,4 +16,16 @@
 - (void)longPressAction {
     // your long press code should be here
 }
+
+- (NSString *)singleTapToast {
+    // returns a string that will show as a simple toast message after single tapping on the shortcut (eg Copy)
+    return nil;
+}
+
+- (NSString *)longPressToast {
+    // returns a string that will show as a simple toast message after long pressing on the shortcut (eg Copy)
+    return nil;
+}
+
+
 @end
